@@ -33,10 +33,9 @@ This project is a robust University Database Management System implemented in C,
         ```
 2.  **Clone the Repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/KaramMalkawi/University-Database-Management-System.git
     cd university-database
     ```
-    *(Replace `<repository-url>` with the actual repository URL once it's created.)*
 3.  **Compile the Code:**
     ```bash
     gcc -o university_db main.c -pthread -lssl -lcrypto
